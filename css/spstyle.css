@@ -28,15 +28,25 @@
 .sp {text-align: center;
     color: #F20C23;
 }
-.title {/*color: #F20C23; */  color: #0EB5ED;
+.si {font-size: 250%;
+}
+.si2 {font-size: 200%;
+	
+}
+.title {color: #0EB5ED;
     text-align: center;
     font-family: 'Cormorant Upright', serif;
     font-size: 350%;
     text-shadow: 2px 2px 2px #000;
-    
-    
-    
+   
 }
+.titles {color: #0EB5ED;
+    text-align: center;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 250%;
+	
+}
+    
 .dwn {margin-top: 5%;
 	
 }
