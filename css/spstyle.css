@@ -144,11 +144,38 @@
     
     margin-left: 10%;
 }
+.gamebk {background-image: url(../images/maze2.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	
+}
 
 
+.gamet {font-family: 'Pattaya', sans-serif;
+		text-align: center;
+}
+.gamett{font-family: 'Pacifico', cursive;
+	
+}
+.answerft {font-family: 'Open Sans', sans-serif;
+	
+}
+.answer {text-align: center;
+		font-family: 'Pacifico', cursive;
+		color: #FFF;
+}
+.clr {color: #000;
+	
+}
+p {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFF;
+	font-size: 150%;
+}
 .cb-slideshow,
 .cb-slideshow:after {
-	margin-top: 5%;
+	margin-top: 10%;
     position: fixed;
     width: 100%;
     height: 100%;
@@ -183,7 +210,7 @@
 .cb-slideshow li div {
     z-index: 1000;
     position: absolute;
-    bottom: 70px;
+    bottom: 130px;
     left: 0px;
     width: 100%;
     text-align: center;
