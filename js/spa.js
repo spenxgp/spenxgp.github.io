@@ -9,5 +9,5 @@ function changeImage() {
         imageIndex = 0;
     }
 }
-var intervalHandle = setInterval(changeImage,2500);
+var intervalHandle = setInterval(changeImage,2000);
 

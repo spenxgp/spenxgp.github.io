@@ -12,4 +12,4 @@ function changeImage() {
         imageIndex = 0;
     }
 }
-var intervalHandle = setInterval(changeImage,3000);
+var intervalHandle = setInterval(changeImage,2000);
