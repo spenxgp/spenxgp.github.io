@@ -105,6 +105,7 @@
 	color: #0EB5ED;
 }
 .wd {background-color: #0D82A8;
+	background-attachment: fixed;
 	
 }
 .modal-header, .modal-footer {background-color: #CCE817;
