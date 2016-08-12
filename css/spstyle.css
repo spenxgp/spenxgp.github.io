@@ -1,4 +1,11 @@
 
+.nav, .navbar-brand {font-family: 'Cormorant Upright', serif;
+    text-align: center;
+    font-size: 120%;
+    color: #FA0511;
+    
+}
+
 .nv {font-family: 'Cormorant Upright', serif;
     text-align: center;
     font-size: 120%;
