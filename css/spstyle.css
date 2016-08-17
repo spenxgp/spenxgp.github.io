@@ -1,187 +1,3 @@
-
-/*.nav, .navbar-brand-text, .style {font-family: 'Cormorant Upright', serif;
-    text-align: center;
-    font-size: 120%;
-    color: #FA0511;
-    background-color: #5C0D0D;
-    
-}*/
-
-.nv {font-family: 'Cormorant Upright', serif;
-    text-align: center;
-    font-size: 120%;
-    
-}
-.dn {margin-top: 3%;
-	
-}
-
-.jumbotron {background-image: url(../images/nyc.jpg) ;
-   
-    margin-top: 3%;
-    
-}
-
-.fun {text-shadow: 1px 1px 2px #F20C23;
-
-}
-
-
-.fun1 {text-align: center;
-    color: #F20C23;
-    font-family: 'Rubik One', sans-serif;
-    text-shadow: 2px 2px 2px #F20C23;
-    
-}
-.sp {text-align: center;
-    color: #F20C23;
-}
-.si {font-size: 250%;
-}
-.si2 {font-size: 200%;
-	
-}
-.title {color: #0EB5ED;
-    text-align: center;
-    font-family: 'Cormorant Upright', serif;
-    font-size: 350%;
-    text-shadow: 2px 2px 2px #000;
-   
-}
-.titles {color: #0EB5ED;
-    text-align: center;
-    font-family: 'Cormorant Upright', serif;
-    font-size: 250%;
-	
-}
-    
-.dwn {margin-top: 5%;
-	
-}
-    
-.ab { color: #000000;
-    font-size: 200%;
-    text-align: center;
-     margin-top: 2%;
-    opacity: .4;
-    font-family: 'Pavanam', sans-serif;
-    
-   
-    
-    
-} 
-
-
-.aba {margin-top: 5%;
-    
-    
-}
-.row, .met {color: #0B205E;
-    font-size: 170%;
-    text-align: center;
-   font-family: 'Farsan', cursive;
-    
-}
-
-.months {
-	margin-top: 5%;
-	
-}
-.amonths {text-align: center;
-	
-}
-.mon {margin-left: 35%;
-	margin-top: 5%;
-	
-}
-.reach {color: #F20C23;
-    text-shadow: 2px 2px 2px #000;
-}
-.link {text-decoration: none;
-    color: #F20C23;
-    text-shadow: 2px 2px 2px #000;
-    
-}
-.know {margin-left: 37%;
-	color: #0EB5ED;
-	
-}
-.kover {margin-left: 42%;
-	
-}
-.top {text-align: center;
-	color: #0EB5ED;
-}
-.wd {background-color: #0D82A8;
-	background-attachment: fixed;
-	
-}
-.modal-header, .modal-footer {background-color: #CCE817;
-}
-.modal-header {font-weight: bold;
-	
-}
-.dk {font-weight: bold;
-	
-}
- 
-.modal-body {background-color: #F20C23;
-	 font-family: 'Cormorant Upright', serif;
-	 color: #F5EBEF;
-	
-}
-
-.jp {background-color: #F20C23}
-.vb {text-align: center;
-    font-family: 'Cormorant Upright', serif;
-	 color: #F5EBEF;
-    
-    background-color: #000;
-    width: 40%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-    margin-left: 30%;
-    
-    
-}
-.vbs {font-size: 170%;
-}
-
-.bk {background-color: #FCFCFC;
-    width: 80%;
-    padding: 2%;
-    
-    margin-left: 10%;
-}
-.gamebk {background-image: url(../images/maze2.jpg);
-		background-repeat: no-repeat;
-		background-position: center;
-		background-attachment: fixed;
-	
-}
-
-
-.gamet {font-family: 'Pattaya', sans-serif;
-		text-align: center;
-}
-.gamett{font-family: 'Pacifico', cursive;
-	
-}
-.answerft {font-family: 'Open Sans', sans-serif;
-	
-}
-.answer {text-align: center;
-		font-family: 'Pacifico', cursive;
-		color: #FFF;
-}
-.clr {color: #000;
-	
-}
-p {text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	color: #FFF;
-	font-size: 150%;
-}
 .cb-slideshow,
 .cb-slideshow:after {
 	margin-top: 15%;
@@ -198,7 +14,7 @@ p {text-align: center;
     
 }
 .cb-slideshow li span {
-	margin-top: 2%;
+	
     width: 100%;
     height: 100%;
     position: absolute;
@@ -549,3 +365,187 @@ p {text-align: center;
 }
 
 
+
+.nav, .navbar-brand-text, .style {font-family: 'Cormorant Upright', serif;
+    text-align: center;
+    font-size: 120%;
+    color: #FA0511;
+    background-color: #5C0D0D;
+    
+}
+
+.nv {font-family: 'Cormorant Upright', serif;
+    text-align: center;
+    font-size: 120%;
+    
+}
+.dn {margin-top: 3%;
+	
+}
+
+.jumbotron {background-image: url(../images/nyc.jpg) ;
+   
+    margin-top: 3%;
+    
+}
+
+.fun {text-shadow: 1px 1px 2px #F20C23;
+
+}
+
+
+.fun1 {text-align: center;
+    color: #F20C23;
+    font-family: 'Rubik One', sans-serif;
+    text-shadow: 2px 2px 2px #F20C23;
+    
+}
+.sp {text-align: center;
+    color: #F20C23;
+}
+.si {font-size: 250%;
+}
+.si2 {font-size: 200%;
+	
+}
+.title {color: #0EB5ED;
+    text-align: center;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 350%;
+    text-shadow: 2px 2px 2px #000;
+   
+}
+.titles {color: #0EB5ED;
+    text-align: center;
+    font-family: 'Cormorant Upright', serif;
+    font-size: 250%;
+	
+}
+    
+.dwn {margin-top: 5%;
+	
+}
+    
+.ab { color: #000000;
+    font-size: 200%;
+    text-align: center;
+     margin-top: 2%;
+    opacity: .4;
+    font-family: 'Pavanam', sans-serif;
+    
+   
+    
+    
+} 
+
+
+.aba {margin-top: 5%;
+    
+    
+}
+.row, .met {color: #0B205E;
+    font-size: 170%;
+    text-align: center;
+   font-family: 'Farsan', cursive;
+    
+}
+
+.months {
+	margin-top: 5%;
+	
+}
+.amonths {text-align: center;
+	
+}
+.mon {margin-left: 35%;
+	margin-top: 5%;
+	
+}
+.reach {color: #F20C23;
+    text-shadow: 2px 2px 2px #000;
+}
+.link {text-decoration: none;
+    color: #F20C23;
+    text-shadow: 2px 2px 2px #000;
+    
+}
+.know {margin-left: 37%;
+	color: #0EB5ED;
+	
+}
+.kover {margin-left: 42%;
+	
+}
+.top {text-align: center;
+	color: #0EB5ED;
+}
+.wd {background-color: #0D82A8;
+	background-attachment: fixed;
+	
+}
+.modal-header, .modal-footer {background-color: #CCE817;
+}
+.modal-header {font-weight: bold;
+	
+}
+.dk {font-weight: bold;
+	
+}
+ 
+.modal-body {background-color: #F20C23;
+	 font-family: 'Cormorant Upright', serif;
+	 color: #F5EBEF;
+	
+}
+
+.jp {background-color: #F20C23}
+.vb {text-align: center;
+    font-family: 'Cormorant Upright', serif;
+	 color: #F5EBEF;
+    
+    background-color: #000;
+    width: 40%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    
+    
+}
+.vbs {font-size: 170%;
+}
+
+.bk {background-color: #FCFCFC;
+    width: 80%;
+    padding: 2%;
+    
+    margin-left: 10%;
+}
+.gamebk {background-image: url(../images/maze2.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		background-attachment: fixed;
+	
+}
+
+
+.gamet {font-family: 'Pattaya', sans-serif;
+		text-align: center;
+}
+.gamett{font-family: 'Pacifico', cursive;
+	
+}
+.answerft {font-family: 'Open Sans', sans-serif;
+	
+}
+.answer {text-align: center;
+		font-family: 'Pacifico', cursive;
+		color: #FFF;
+}
+.clr {color: #000;
+	
+}
+p {text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFF;
+	font-size: 150%;
+}
